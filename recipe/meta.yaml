@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/mcflugen/sedflux/archive/v{{ version }}.tar.gz
-  sha256: cf24e1277a311964119409f668aad71145e8b3aa5cb8f2d4f3c32ca248483d67
+  sha256: e1802a4bc40f7bc334d44fb172619817a4a1442cf4339c6a0efc7f7ce04ee3c3
 
 build:
   number: 1000
